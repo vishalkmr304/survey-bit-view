@@ -213,6 +213,9 @@ THE SOFTWARE.
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
 ag-grid-angular
 MIT
 The MIT License
